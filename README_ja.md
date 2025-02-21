@@ -1,4 +1,4 @@
-# dose_rate_visualizer
+# dose_rate_visualizer_esapi_v15_5
 
 ビームの線量率を可視化するためのESAPI Binary Pluginです。
 

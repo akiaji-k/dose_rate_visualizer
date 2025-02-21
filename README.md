@@ -1,4 +1,4 @@
-# dose_rate_visualizer
+# dose_rate_visualizer_esapi_v15_5
 
 ESAPI Binary Plugin to visualize beam dose rate.
 
