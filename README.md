@@ -14,6 +14,8 @@ Created with ESAPI v16.1.
 
    ![select_target](./images/dose_rate_visualizer.png)
 
+The mean, standard deviation, and mode of dose rate are also calculated and displayed.
+
 
 
 **Note that the gantry angle of 0 degrees is plotted on the far left regardless of CW or CCW, an issue that needs to be corrected.**

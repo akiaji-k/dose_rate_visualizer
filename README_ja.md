@@ -14,6 +14,10 @@ ESAPI v16.1で作成されています。
 
    ![select_target](./images/dose_rate_visualizer.png)
 
+線量率の平均値、標準偏差、最頻値も計算して表示する。
+
+
+
 **CW, CCWに依らずガントリ角度0度が左端にプロットされるのは、修正すべき課題です。**
 
 
